@@ -4,7 +4,7 @@
 </p>
   </h2>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=mfrkndmrl&theme=onedark)](https://github.com/mfrkndmrl/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=muhammetfurkandemiral&theme=onedark)](https://github.com/muhammetfurkandemiral/github-profile-trophy)
 
 
 <!---
@@ -57,9 +57,8 @@ You can click the Preview link to take a look at your changes.
    <a href="https://www.jetbrains.com/idea/" rel="nofollow"> <img src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-png-transparent.png" alt="idea" width="30" height="30" data-canonical-src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-png-transparent.png" style="max-width: 100%;"> </a>
 </p>
 <p>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/a7faecb29033eb01699002e9daa906694ff207b8a5a711d7bab93538d6e1f0d3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6d66726b6e646d726c2673686f775f69636f6e733d74727565267468656d653d7261646963616c266c6f63616c653d656e266c61796f75743d636f6d70616374"><img align="left" src="https://camo.githubusercontent.com/a7faecb29033eb01699002e9daa906694ff207b8a5a711d7bab93538d6e1f0d3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6d66726b6e646d726c2673686f775f69636f6e733d74727565267468656d653d7261646963616c266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="mfrkndmrl" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=mfrkndmrl&amp;show_icons=true&amp;theme=radical&amp;locale=en&amp;layout=compact" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs?username=muhammetfurkandemiral&amp;show_icons=true&amp;theme=radical&amp;locale=en&amp;layout=compact"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammetfurkandemiral&amp;show_icons=true&amp;theme=radical&amp;locale=en&amp;layout=compact" alt="muhammetfurkandemiral" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammetfurkandemiral&amp;show_icons=true&amp;theme=radical&amp;locale=en&amp;layout=compact" style="max-width: 100%;"></a>
 </p>
 <p>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6a9bb990d934268e459587db86fdff1fa8ac094db9c610f0f351c8f4bf3c81f5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d66726b6e646d726c267468656d653d6461726b2673686f775f69636f6e733d74727565267374796c653d353025"><img align="center" src="https://camo.githubusercontent.com/6a9bb990d934268e459587db86fdff1fa8ac094db9c610f0f351c8f4bf3c81f5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d66726b6e646d726c267468656d653d6461726b2673686f775f69636f6e733d74727565267374796c653d353025" alt="mfrkndmrl" width="50%" data-canonical-src="https://github-readme-stats.vercel.app/api?username=mfrkndmrl&amp;show_icons=true&amp;theme=dark&amp;locale=en" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=muhammetfurkandemiral&show_icons=true&theme=dark&locale=en"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammetfurkandemiral&show_icons=true&theme=dark&locale=en" alt="muhammetfurkandemiral" width="50%" data-canonical-src="https://github-readme-stats.vercel.app/api?username=muhammetfurkandemiral&amp;show_icons=true&amp;theme=dark&amp;locale=en" style="max-width: 100%;"></a>
 </p>
-
