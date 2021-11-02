@@ -9,7 +9,7 @@
 
 <!---
 - 👀 I’m interested in develop web software.--->
-- 🌱 I’m currently learning Javascript, Java etc..
+- 🌱 I’m currently learning Javascript, Java.
 - 💬 Ask me about Asp.Net MVC, CSS and Ionic Framework.
 - 📫 How to reach me <a href="https://www.linkedin.com/in/muhammetfurkandemiral/" rel="nofollow">linkedin.com/in/muhammetfurkandemiral/</a>
 
